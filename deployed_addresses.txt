@@ -1,0 +1,35 @@
+The marketplace contract has been deployed to Rinkeby. 
+The contract address is 0xBE27b8ef03dbf49F08cDD2C3cB489c863aDFF2f8
+
+https://rinkeby.etherscan.io/address/0xbe27b8ef03dbf49f08cdd2c3cb489c863adff2f8
+
+
+
+Contract verification at Etherscan.io
+
+1 - Flatten Contracts
+Error for cross reference: in Store.sol I've commented out
+the import "./Marketplace.sol", because in Marketplace.sol 
+already have a reference to Store contract (import "./Store.sol")
+
+2 - Paste de full flatten contract an Remix IDE
+Compile, check for errors and deploy contract.
+
+3 - Deploy contract
+I've deployed the contract again in the Rinkeby Network, the tx is
+https://rinkeby.etherscan.io/tx/0x686bc0152b1e5de7190ba492d204c68e0342cb3c1ce7ea82e650c28017a04bfa
+The contract address is 0x0b1222e2df4d3afa42e6409530180ad00445f9e8
+
+4 - Verify & Publish Contract Source Code
+From the Verify and Publish link:
+  Compiler Type: Solidity (Single file)
+  Compiler Version: v.0.5.1 (same at Remix IDE)
+  Optimization: true (same at Remix IDE)
+
+Paste Source Code and cross fingers...
+If everything goes well you will see a success message in the generated source code, 
+ABI and ByteCode generated for your contract.
+Now your contract will display a green verified check in the Contract tab at Etherscan!
+
+Congrats!
+

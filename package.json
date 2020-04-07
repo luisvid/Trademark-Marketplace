@@ -1,0 +1,42 @@
+{
+  "name": "project",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.3.0",
+    "bignumber.js": "^7.2.1",
+    "history": "^4.7.2",
+    "lodash": "^4.17.15",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4",
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-react": "^0.82.1",
+    "truffle-contract": "^3.0.6",
+    "truffle-hdwallet-provider": "^0.0.6",
+    "web3": "0.20.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2",
+    "prettier-plugin-solidity-refactor": "^1.0.0-alpha.14"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
