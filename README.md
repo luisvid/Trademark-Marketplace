@@ -28,9 +28,9 @@ Items:
 ## Documentation 
 
 Refer to:
-[Avoiding Common Attacks](https://github.com/luisvid/ConsenSys-Academy-bootcamp-2019-Final-Project/blob/master/avoiding_common_attacks.md) 
+[Avoiding Common Attacks](https://github.com/luisvid/Trademark-Marketplace/blob/master/avoiding_common_attacks.md) 
 and
-[Design Pattern Decisions](https://github.com/luisvid/ConsenSys-Academy-bootcamp-2019-Final-Project/blob/master/design_pattern_desicions.md)
+[Design Pattern Decisions](https://github.com/luisvid/Trademark-Marketplace/blob/master/design_pattern_desicions.md)
 
 ## Getting Started
 
@@ -43,6 +43,7 @@ What things you need to install the software and how to install them
     npm install -g truffle
     
     **Note**: Ganache GUI can also be used
+    **Note**: An .env file. must be created with MNEMONIC and INFURA_API_KEY
 
 ### Installing
 
