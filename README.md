@@ -17,9 +17,7 @@ They can also withdraw any funds that the Trademark Store has collected from sal
 An approved Trademark Agent logs into the app. The web app recognizes their address and identifies them as a Trademark Agent (store owner). They are shown the Trademark Agents functions. They can create a new storefront that will be displayed on the Trademark Marketplace. They can also see the storefronts that they have already created. They can click on a storefront to manage it. They can add/remove products and services from the storefront or change any of the items’ prices. They can also withdraw any funds that the store has collected from sales.
 
 A Client logs into the app. The web app recognizes their address and identifies them as a Client. From the main page they can browse all of the storefronts that have been created in the Trademark Marketplace. Clicking on a storefront will take them to a product page. They can see a list of products and services offered by the store, including their price and quantity. 
-
-User can purchase a product, which will debit their account and send it to the store. If it is a product, the quantity of the item in the store inventory will be reduced by the appropriate quantity. Does not apply to services.
-
+Client can purchase a product, which will debit their account and send it to the store. If it is a product, the quantity of the item in the store inventory will be reduced by the appropriate quantity. Does not apply to services.
 Items: 
 1 - Credit (Cello Dollars vía Celo Wallet) The Credit is necessary to buy products and services in the  Trademark Store. After purchasing Credit, the user is added to the list of approved users.
 2 - INPI registration. Start of process at INPI. After paying (with Celo currency) continue to the page to upload the document to IPFS and store the hash in the Trademark Contract. The counter is initialized to trigger "time" event (see block counter)
