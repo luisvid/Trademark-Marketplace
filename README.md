@@ -88,4 +88,4 @@ There are 5 tests each for the `Marketplace.sol` and `Store.sol` contracts.
 **Note**: ganache-cli will need to be running in order for the tests to run
 
 ### TODO
-Read the TODO.txt file
+Read the [TODO.txt](https://github.com/luisvid/Trademark-Marketplace/blob/master/TODO.txt) file
