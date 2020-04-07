@@ -18,6 +18,7 @@ An approved Trademark Agent logs into the app. The web app recognizes their addr
 
 A Client logs into the app. The web app recognizes their address and identifies them as a Client. From the main page they can browse all of the storefronts that have been created in the Trademark Marketplace. Clicking on a storefront will take them to a product page. They can see a list of products and services offered by the store, including their price and quantity. 
 Client can purchase a product, which will debit their account and send it to the store. If it is a product, the quantity of the item in the store inventory will be reduced by the appropriate quantity. Does not apply to services.
+
 Items: 
 1 - Credit (Cello Dollars vía Celo Wallet) The Credit is necessary to buy products and services in the  Trademark Store. After purchasing Credit, the user is added to the list of approved users.
 2 - INPI registration. Start of process at INPI. After paying (with Celo currency) continue to the page to upload the document to IPFS and store the hash in the Trademark Contract. The counter is initialized to trigger "time" event (see block counter)
@@ -40,8 +41,8 @@ What things you need to install the software and how to install them
     npm install -g ganache-cli
     npm install -g truffle
     
-    **Note**: Ganache GUI can also be used
-    **Note**: An .env file. must be created with MNEMONIC and INFURA_API_KEY
+**Note**: Ganache GUI can also be used
+**Note**: An .env file. must be created with MNEMONIC and INFURA_API_KEY
 
 ### Installing
 
