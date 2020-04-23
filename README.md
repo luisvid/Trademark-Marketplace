@@ -1,4 +1,6 @@
 
+[![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
+
 # Online Trademark Marketplace DApp
 
 An Online Trademark Marketplace that operates on the blockchain.
