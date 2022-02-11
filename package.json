@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@openzeppelin/contracts": "^2.3.0",
+    "@openzeppelin/contracts": "^4.4.2",
     "bignumber.js": "^7.2.1",
     "history": "^4.7.2",
     "lodash": "^4.17.15",
