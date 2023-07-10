@@ -10,11 +10,11 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-router-dom": "^4.3.1",
-    "react-scripts": "1.1.4",
+    "react-scripts": "5.0.1",
     "semantic-ui-css": "^2.3.3",
     "semantic-ui-react": "^0.82.1",
     "truffle-contract": "^3.0.6",
-    "truffle-hdwallet-provider": "^0.0.6",
+    "truffle-hdwallet-provider": "^1.0.17",
     "web3": "0.20.7"
   },
   "scripts": {
